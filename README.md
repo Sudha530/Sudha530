@@ -1,7 +1,7 @@
 HEY I'm Sudha 
 Final Year Btech CSE Student
 # 💫 About Me:
-I’m currently working on<br>Small to medium projects and improving my coding logic step by step.<br>👯 I’m looking to collaborate on<br>Beginner-friendly projects and simple open-source contributions where learning and teamwork matter more than experience.<br>🤝 I’m improving problem-solving skills in DSA, and understanding how real-world applications are built.<br>🌱<br>💬 Ask me about<br>My learning journey as a final-year BTech student, basic Java concepts, SQL queries, or beginner project ideas.<br>⚡ Fun fact<br>I don’t give up on bugs easily — I keep fixing them until the code finally says “Hello, World!” 😄
+I’m currently working on Small to medium projects and improving my coding logic step by step.<br>👯 I’m looking to collaborate on Beginner-friendly projects and simple open-source contributions where learning and teamwork matter more than experience.<br>🤝 I’m improving problem-solving skills in DSA, and understanding how real-world applications are built.<br>🌱<br>💬 Ask me about<br>My learning journey as a final-year BTech student, basic Java concepts, SQL queries, or beginner project ideas.<br>⚡ Fun fact<br>I don’t give up on bugs easily — I keep fixing them until the code finally says “Hello, World!” 😄
 
 
 ## 🌐 Socials:
